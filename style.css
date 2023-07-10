@@ -1,0 +1,82 @@
+.room-card {
+  border: 0;
+}
+.room-card-footer {
+  background-color: white;
+  border: 0;
+}
+.catagories img {
+  width: 100px;
+}
+.room-slide .carousel-item {
+  background-color: #fceae8;
+  border-radius: 2em;
+}
+#logo {
+  width: 100px;
+  height: 100px;
+}
+.search-tag {
+  margin-top: 40px;
+  display: flex;
+  gap: 20px;
+}
+/* .mr {
+  margin-right: 5px;
+} */
+.inp {
+  width: 93%;
+  height: 38px;
+}
+.textbx input {
+  margin-top: 5px;
+  width: 70%;
+  height: 300px;
+  margin-right: 15px;
+}
+.textbx {
+  display: flex;
+}
+.box {
+  width: 100%;
+  display: flex;
+}
+.boxhf {
+  width: 50%;
+}
+.name {
+  border: 2px blue solid;
+  border-radius: 5px;
+}
+.textbx p {
+  margin-top: 10px;
+  margin-right: 2px;
+  border: 5px green solid;
+  width: 30%;
+  text-align: center;
+  height: 100px;
+}
+
+.function {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.btnfun {
+  margin-bottom: 20px;
+  border: 2px solid green;
+  border-radius: 5px;
+  width: 100px;
+  padding: 10px;
+}
+.btnfunSet {
+  margin-bottom: 20px;
+  border: 2px solid green;
+  border-radius: 5px;
+  width: 400px;
+  padding: 10px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
